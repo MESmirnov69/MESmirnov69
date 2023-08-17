@@ -31,9 +31,3 @@
 
 ---
 
-### Сертификаты
-
-<div>
-<img src="https://ltdfoto.ru/images/2023/07/28/module1.png" alt="module1.png" width="380" border="0">
-<img src="https://ltdfoto.ru/images/2023/07/28/module2.png" alt="module2.png" width="380" border="0">
-</div>
